@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Open+Sans:wght@300&display=swap');
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  background-color: whitesmoke;
+}
+body {
+  .btn-blue 
+background-color: blue;
+padding: 15px 25px;
+border-radius: 3px;
+color: white;
+font-weight: bold;
+ont-family: 'Open Sans', sans-serif;
+}
+<h2> </h2> 
+}
+h1, h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+}
+h3{
+    background-color:whitesmoke;
+}
+a{
+  text-decoration: none;
+}
